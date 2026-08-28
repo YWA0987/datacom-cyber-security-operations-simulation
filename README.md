@@ -23,7 +23,7 @@ The analysis included:
 
 Indicators examined included a phishing-based initial compromise, suspicious login activity, credential theft using Mimikatz, and ransomware encryption affecting business-critical systems.
 
-📄 [View Security Breach Impact Report](./Security-Breach-Impact-Report.pdf)
+📄 **[View Security Breach Impact Report](https://github.com/YWA0987/datacom-cyber-security-operations-simulation/blob/main/Security-Breach-Impact-Report.pdf)**
 
 ---
 
@@ -49,7 +49,7 @@ I then developed mitigation recommendations involving areas such as:
 - Phishing defenses
 - Third-party risk management
 
-📄 [View Cybersecurity Risk Assessment](./Cybersecurity-Risk-Assessment.pdf)
+📄 **[View Cybersecurity Risk Assessment](https://github.com/YWA0987/datacom-cyber-security-operations-simulation/blob/main/Cybersecurity-Risk-Assessment.pdf)**
 
 ## Skills Demonstrated
 
@@ -66,7 +66,7 @@ I then developed mitigation recommendations involving areas such as:
 ## Repository Contents
 
 ```text
-datacom-cybersecurity-job-simulation/
+datacom-cyber-security-operations-simulation/
 │
 ├── README.md
 ├── Security-Breach-Impact-Report.pdf
